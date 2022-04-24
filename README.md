@@ -1,6 +1,9 @@
 # Android Apps I like
 
-I list of Android Apps I like
+As long as Apple will block third party browser engines via [Rule 2.5.6](https://developer.apple.com/app-store/review/guidelines/#2.5.6) I will use Android. See [open-web-advocacy.org](//open-web-advocacy.org/) and [appfairness.org](https://appfairness.org/)
+
+
+Here my list of Android Apps I like.
 
 # OpenScan
 
